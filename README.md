@@ -14,8 +14,8 @@ Sample Run:
 2- Run System.java file 
 *All text Fields have special constraints (password: number of characters and symbols, phone number, emails, new username for registration, etc...)
 
-
-Rana Raafat Kamal Al-Attar  
-Basma Mohamed Dessouky 
-Judy Wadgy Fahmy Khairalla 
+Team Members:
+Rana Raafat Kamal Al-Attar,  
+Basma Mohamed Dessouky, 
+Judy Wadgy Fahmy Khairalla, 
 Steven Albert Farahat 
