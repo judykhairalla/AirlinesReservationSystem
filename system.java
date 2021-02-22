@@ -8,17 +8,15 @@ import static javax.swing.JOptionPane.ERROR_MESSAGE;
 
 public class system {
 
-    static Flight chosenFlight;
+    public static final String flightsFilePath = "Flights.bin";
+    public static final String passengersFilePath = "Passengers.bin";
+    public static final String adminsFilePath = "Admins.bin";
 
-    static String flightsFilePath = "Flights.bin";
-    static String passengersFilePath = "Passengers.bin";
-    static String adminsFilePath = "Admins.bin";
+    public static final Font titleFont = new Font(null, Font.BOLD, 21);
+    public static final Font font = new Font(null, Font.PLAIN, 17);
+    public static final Font subFont = new Font(null, Font.PLAIN, 15);
 
-    static Font titleFont = new Font(null, Font.BOLD, 21);
-    static Font font = new Font(null, Font.PLAIN, 17);
-    static Font subFont = new Font(null, Font.PLAIN, 15);
-
-    static final String[] cities = {"AUH, Abu Dhabi", "AUS, USA",
+    public static final String[] cities = {"AUH, Abu Dhabi", "AUS, USA",
         "BOS, USA", "DTW, USA", "JFK, USA", "ORD, USA",
         "CAI, Egypt", "HRG, Egypt", "LXR, Egypt",
         "CDG, France", "ORY, France", "TLS, France",
